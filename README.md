@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![SongMinGyu0506's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongMinGyu0506&show_icons=true&theme=dark)](https://github.com/SongMinGyu0506/github-readme-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SongMinGyu0506&show_icons=true&theme=dark">
+ </p>
  

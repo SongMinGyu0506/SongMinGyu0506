@@ -19,5 +19,5 @@ Here are some ideas to get you started:
  </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongMinGyu0506&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongMinGyu0506&layout=compact&theme=dark">
 </p>

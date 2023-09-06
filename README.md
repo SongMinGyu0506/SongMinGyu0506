@@ -1,3 +1,7 @@
+### Hello!
+Nice to meet you. My name is Song Min-gyu. I am Korean, and I am a Java backend server developer.
+
+
 <div align="center">
   <!--<img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>-->
   

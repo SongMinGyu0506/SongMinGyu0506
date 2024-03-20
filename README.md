@@ -1,5 +1,8 @@
 ### Hello!
-Nice to meet you. My name is Song Min-gyu. I am Korean, and I am a Java backend server developer.
+Hello, I am Song Min-gyu, a Java web developer.
+I mainly work on web development using Spring, and I'm also moving towards full-stack development using React-Native.
+I am always thinking and advancing to produce stable development results.
+Additionally, I approach development with an open mind and continually strive for change in development.
 
 
 <div align="center">
